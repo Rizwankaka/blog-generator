@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+langgraph>=0.0.10
+langchain-google-genai>=0.0.3
+streamlit
+python-dotenv
+PyGithub
+youtube_transcript_api>=0.6.0
+# Add these new dependencies
+uvicorn
+httpx 

@@ -3,4 +3,5 @@ langchain
 langgraph
 PyGithub
 youtube-transcript-api
+langchain_google_genai
 configparser
